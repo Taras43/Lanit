@@ -8,7 +8,6 @@ public class Application {
         Barsik.setName("Barsik");
         Barsik.setWeight(5);
         Barsik.setMeow("meow");
-
         Mars.liveAnotherDay();
         System.out.println("Name: "+Mars.getName());
         System.out.println("Weight: "+Mars.getWeight());

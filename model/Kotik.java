@@ -141,6 +141,7 @@ public class Kotik {
             if(random==3){
                 if(false==sit()) eat();
             }
+
             if(random==4){
                 if(false==chaseMouse()) eat();
             }
